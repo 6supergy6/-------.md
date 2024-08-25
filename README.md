@@ -1,10 +1,10 @@
-# 多移动终端轻量化感\-算\-策协同增强方法
+# [中国科学:数据科学]多移动终端轻量化感\-算\-策协同增强方法
 # Lightweight sensing-computing-decision collaboration enhancement for multi-mobile terminals
 
 【标题】
 
 多移动终端轻量化感\-算\-策协同增强方法
-
+CCF-A
 文章链接：[https://doi\.org/10\.1360/SSI\-2024\-0089](https://doi.org/10.1360/SSI-2024-0089" \o "https://doi.org/10.1360/SSI-2024-0089" \t "https://www.sciengine.com/SSI/doi/10.1360/_blank)
 
 【标签】
