@@ -1,3 +1,6 @@
+# 多移动终端轻量化感\-算\-策协同增强方法
+# Lightweight sensing-computing-decision collaboration enhancement for multi-mobile terminals
+
 【标题】
 
 多移动终端轻量化感\-算\-策协同增强方法
